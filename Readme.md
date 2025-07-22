@@ -6,7 +6,7 @@ Supports:
 * IDA >= 7.4 
 
 ## Download
-
+Try to trigger the workflows...
 * [Windows AMD64](https://nightly.link/Mixaill/FakePDB/workflows/CI/master/binaries.zip)
 
 ## How to install
